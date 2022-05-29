@@ -1,0 +1,6 @@
+We recommend you to play this game on Manjaro.
+
+You will need CPCTelera, you can download it here:
+https://lronaldo.github.io/cpctelera/files/readme-txt.html
+
+Then open console, call "bash" and execute "make".
